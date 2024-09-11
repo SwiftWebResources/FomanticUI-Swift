@@ -2,10 +2,10 @@
 import PackageDescription
 
 let package = Package(
-  name: "SemanticUI",
+  name: "FomanticUI",
   products: [
-    .library(name: "SemanticUI", targets: ["SemanticUI"])
+    .library(name: "FomanticUI", targets: ["FomanticUI"])
   ],
   dependencies: [],
-  targets: [ .target(name: "SemanticUI") ]
+  targets: [ .target(name: "FomanticUI") ]
 )

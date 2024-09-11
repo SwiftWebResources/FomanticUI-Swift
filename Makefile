@@ -2,9 +2,9 @@
 
 SWIFT_RESOURCE_SCRIPT = ./rsrc2swift.sh
 
-PACKAGE_NAME=SemanticUI
+PACKAGE_NAME=FomanticUI
 
-SemanticUI_RESOURCE_FILES = \
+FomanticUI_RESOURCE_FILES = \
 	$(wildcard Upstream/*.min.css) \
 	$(wildcard Upstream/*.min.js)  \
 	$(wildcard Upstream/components/*.min.css) \
