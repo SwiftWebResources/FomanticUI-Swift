@@ -10,3 +10,4 @@ within your application.
 It is pretty big though :-)
 
 You can view more on Fomantic-UI (a fork of Semantic UI) at [LearnSemantic.com](http://www.learnsemantic.com) and [Fomantic-UI.com](https://fomantic-ui.com).
+
